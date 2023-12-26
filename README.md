@@ -10,9 +10,9 @@ This project was completed to demonstrate fundamental JavaScript skills (e.g., h
 
 The project does not draw from any external databases. When started with a local test web server, the UI will look like the following:
 ![image](https://github.com/thomaslesperance/local-library-simulation/assets/144936700/4c8b7714-0424-4a2a-9062-2d4024915260)
-
 ## Features
 The application provides the following features based on the data saved in the accounts.js/ authors.js/ books.js files and the corresponding logic in the src files:
+
 -- How many total books/ books currently checked out/ accounts registered in the library
 
 -- List of 5 most popular genres based on the number of book check-outs recorded in database
